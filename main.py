@@ -1,4 +1,4 @@
-#Alejandro Morales 12vo Naturales
+#Alexmlv
 # Import the pygame library and initialise the game engine
 import pygame
 import time
