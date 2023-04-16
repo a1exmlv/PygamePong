@@ -1,2 +1,3 @@
 # PygamePong
-pong game in pygame 
+
+Basic Ping Pong game in Python using Pygame.
